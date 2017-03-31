@@ -1,2 +1,2 @@
 # justTry
-just try how to build a new repository
+just try how to build a new repository!
